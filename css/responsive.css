@@ -1,0 +1,64 @@
+@media only screen and (max-width: 600px) {
+/* CAROUSEL */
+    
+     .carousel3d  {
+        display: none;
+    }
+    .visagegif {
+        display: block;
+        padding: 0;
+    }
+    .banp {
+        margin-bottom: 50px;
+    }
+    
+  /* PAGE PROGRAMMATION */
+    .logo {
+        display: none;
+    }
+  .day, .content-title {
+    font-size: 12px;
+    margin: 0;
+    letter-spacing: inherit;
+    font-weight: normal;
+  }
+
+  .content-text {
+    margin: 0;
+    font-size: 7px;
+    letter-spacing: inherit;
+    font-weight: normal;
+  }
+
+  .content-details {
+    padding: 0;
+  }
+
+  /*  PAGE ACCUEIL*/
+  
+  .nav-hamb {
+    font-size: 36px;
+  }
+
+  .img-eyes {
+    display: none;
+  }
+
+  .list-link, .list-item, .banp a {
+    font-size: 23px;
+  }
+
+  .tube {
+    height: auto;
+  }
+
+
+
+/* INFO */ 
+.write {
+    font-size: 14px;
+}
+.info-pratique {
+    font-size: 12px;
+}
+}
